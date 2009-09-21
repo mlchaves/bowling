@@ -1,4 +1,4 @@
-# 
+# comment for git commit 
 class Bowling
   attr_accessor :score, :roll1, :roll2, :roll3, :roll4
   
